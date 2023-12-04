@@ -2,7 +2,7 @@
 
 I'm Blake Kusky. I have a Bachelor of Science in Computer Science and am currently pursuing a Master of Science in Finance. My academic background provides a unique blend of technical expertise and financial knowledge, making me particularly interested in the intersection of fintech and software engineering.
 
-### 💻 Technical Background
+### 💻 Background
 
 - 🎓 Bachelor of Science in Computer Science | University of Notre Dame
 - 📚 Current MS in Finance Candidate | University of Notre Dame
