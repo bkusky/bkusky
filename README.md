@@ -1,6 +1,6 @@
 ## 👋 Hello, World!
 
-I'm Blake Kusky. I have a Bachelor of Science in Computer Science and am currently pursuing a Master of Science in Finance. My academic background provides a unique blend of technical expertise and financial knowledge, making me particularly interested in the intersection of fintech and software engineering.
+I'm Blake Kusky. I have a Bachelor of Science in Computer Science and am currently pursuing a Master of Science in Finance. My academic background provides a unique blend of technical expertise and financial knowledge, making me particularly interested in the intersection of finance and software engineering.
 
 ### 💻 Background
 
