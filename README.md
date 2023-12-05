@@ -23,8 +23,6 @@ My professional focus revolves around fintech and software engineering, where I 
 - Software Development
 - Fintech Solutions
 
-Let's connect!
-
 
 <!--
 **bkusky/bkusky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
