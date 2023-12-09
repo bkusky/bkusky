@@ -1,22 +1,22 @@
-## 👋 Hello, World!
+## Hello, World!
 
 I'm Blake Kusky. I have a Bachelor of Science in Computer Science and am currently pursuing a Master of Science in Finance. My academic background provides a unique blend of technical expertise and financial knowledge, making me particularly interested in the intersection of finance and software engineering.
 
-### 💻 Background
+### Background
 
-- 🎓 Bachelor of Science in Computer Science | University of Notre Dame
-- 📚 Current MS in Finance Candidate | University of Notre Dame
+- Bachelor of Science in Computer Science | University of Notre Dame
+- Current MS in Finance Candidate | University of Notre Dame
 
-### 🚀 Interests
+### Interests
 
 My professional focus revolves around fintech and software engineering, where I strive to leverage technology to enhance financial processes and create innovative solutions. I'm always exploring new ways to bridge the gap between finance and technology.
 
 ### 🌐 Connect with Me
 
-- 📧 Email: bkusky@nd.edu
-- 💼 LinkedIn: www.linkedin.com/in/bkusky
+- Email: bkusky@nd.edu
+- LinkedIn: www.linkedin.com/in/bkusky
 
-### 🌟 Skills
+### Skills
 
 - Programming Languages: C | Python | SQL
 - Financial Analysis
