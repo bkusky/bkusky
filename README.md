@@ -9,7 +9,7 @@ I'm Blake Kusky. I have a Bachelor of Science in Computer Science and am current
 
 ### Interests
 
-My professional focus revolves around fintech, investment banking, and the digital transformation of financial services. I strive to leverage technology to enhance financial processes and create innovative solutions. I'm always exploring new ways to bridge the gap between finance and technology.
+My professional focus revolves around fintech, consulting, and the digital transformation of financial services. I strive to leverage technology to enhance financial processes and create innovative solutions. I'm always exploring new ways to bridge the gap between finance and technology.
 
 ### 🌐 Connect with Me
 
